@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harryedgar&label=Profile%20views&color=0e75b6&style=flat" alt="harryedgar" /> </p>
 
-- 
--  My field interests include:
-      - Software Development
-      - Business Analysis
-      - Cyber Security
-
-<h1 align="center">Hi 👋🏾, I'm <a href="https://siyamthanda-ndlovu.netlify.app/">Siyamthanda Ndlovu</a>
- 😄</h1>
-<h3 align="center">I'm into art, film & television, graphic design, web development, IT education and dev ops</h3>
-
 - 🔭 I’m currently working on **Project management and Resource Allocation system for my INF 370 Capstone project**
 
 - ⚡ My field interests include: Software Development Business Analysis and Cyber Security
