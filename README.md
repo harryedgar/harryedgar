@@ -8,7 +8,7 @@
 <br>
 -🔭 I’m currently working on Project management and Resource Allocation system for my INF 370 Capstone project
 
--⚡ My field interests include: Software Development Business Analysis and Cyber Security
+-⚡ My field interests include: Software Development, Business Analysis and Cyber Security
 <br>
 
 <div align="center">
